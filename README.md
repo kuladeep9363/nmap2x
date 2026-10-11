@@ -89,13 +89,13 @@ Install Naabu and Nmap using their official installation instructions if they ar
 Run the script by providing a target IP address or hostname:
 
 ```bash
-python3 scanner.py <target>
+python3 nmap2x.py <target>
 ```
 
 Example using an authorized test target:
 
 ```bash
-python3 scanner.py 192.0.2.10
+python3 nmap2x..py 192.0.2.10
 ```
 
 Replace the example address with a target you own or have explicit permission to scan.
