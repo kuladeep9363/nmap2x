@@ -68,7 +68,7 @@ No additional Python packages are required. The script uses Python's built-in `s
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/kuladeep9363/nmap2x.git
 cd YOUR-REPOSITORY
 ```
 
